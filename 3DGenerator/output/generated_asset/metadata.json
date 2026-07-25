@@ -1,0 +1,26 @@
+{
+  "prompt": "wooden crate",
+  "analysis": {
+    "raw_prompt": "wooden crate",
+    "category": "furniture",
+    "keywords": [
+      "wooden",
+      "crate"
+    ],
+    "size_hint": "medium",
+    "style_hint": "balanced",
+    "complexity": 0.55,
+    "seed": 4103963135
+  },
+  "template": {
+    "source": "file",
+    "path": "C:\\Users\\ASUS\\Desktop\\game creator project\\3DGenerator\\templates\\furniture.obj",
+    "score": 5.0
+  },
+  "exports": {
+    "obj": "C:\\Users\\ASUS\\Desktop\\game creator project\\3DGenerator\\output\\generated_asset\\generated_asset.obj",
+    "ply": "C:\\Users\\ASUS\\Desktop\\game creator project\\3DGenerator\\output\\generated_asset\\generated_asset.ply"
+  },
+  "displacement_strength": 0.08,
+  "resolution": 64
+}

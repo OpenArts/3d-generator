@@ -1,0 +1,4 @@
+numpy
+scipy
+trimesh
+open3d
